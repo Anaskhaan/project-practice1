@@ -42,8 +42,10 @@ import SupportIcon from "./icons/IconSupport.vue";
       href="https://github.com/johnsoncodehk/volar"
       target="_blank"
       rel="noopener"
+
       >Anas</a
-    >. If you need to test your components and web pages, check out
+    >. If you need to test your components and web pages, amjad
+ main
     <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a>
     and
     <a href="https://on.cypress.io/component" target="_blank" rel="noopener"
@@ -59,7 +61,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <template #icon>
       <EcosystemIcon />
     </template>
-    <template #heading>Ecosystem</template>
+    <template #heading>Ahtsham</template>
 
     Get official tools and libraries for your project:
     <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener">Pinia</a>,
@@ -110,7 +112,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Anas</template>
+    <template #heading>Zia</template>
 
     As an independent project, Vue relies on community backing for its
     sustainability. You can help us by
