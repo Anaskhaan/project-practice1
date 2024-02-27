@@ -43,7 +43,7 @@ import SupportIcon from "./icons/IconSupport.vue";
       target="_blank"
       rel="noopener"
       >Volar</a
-    >. If you need to test your components and web pages, check out
+    >. If you need to test your components and web pages, amjad
     <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a>
     and
     <a href="https://on.cypress.io/component" target="_blank" rel="noopener"
