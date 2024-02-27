@@ -85,7 +85,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <template #icon>
       <CommunityIcon />
     </template>
-    <template #heading>Community</template>
+    <template #heading>Anas</template>
 
     Got stuck? Ask your question on
     <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a
@@ -110,7 +110,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Support Vue</template>
+    <template #heading>Anas</template>
 
     As an independent project, Vue relies on community backing for its
     sustainability. You can help us by
